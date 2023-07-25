@@ -1,4 +1,4 @@
-# Sentiment-analysis-on-Hespress
+# multiclass-classification-on-Hespress-dataset
 
 FAILD!
 to be continued
